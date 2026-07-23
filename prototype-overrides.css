@@ -1,0 +1,4 @@
+.fixed.inset-0 > .bg-white.rounded-lg.shadow-xl {
+  width: min(960px, 95vw);
+  max-width: 95vw;
+}
